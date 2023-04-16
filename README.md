@@ -1,1 +1,1 @@
-# cardinality-generator
+# httpbin sample app for demonstrating istio sidecar metric cardinality
